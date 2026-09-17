@@ -230,9 +230,9 @@ Daftar di atas adalah kemungkinan arah pengembangan, bukan klaim bahwa fitur ter
 
 | Nama | NIM | Peran |
 | --- | --- | --- |
-| Nicolas J Grace Butarbutar | NIM | Algorithm Engineer & Repo Setup |
-| Indah Triyuni Siahaan | NIM | Business Analyst / Problem Framer |
-| Swasti Maristella Sihombing | NIM | PEAS Specialist & Dokumentasi |
+| Nicolas J Grace Butarbutar | 12S24038 | Algorithm Engineer & Repo Setup |
+| Indah Triyuni Siahaan | 12S24052 | Business Analyst / Problem Framer |
+| Swasti Maristella Sihombing | 12S24030 | PEAS Specialist & Dokumentasi |
 
 ## Lisensi
 
