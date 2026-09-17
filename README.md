@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Dikelola dengan uv](https://img.shields.io/badge/dependency%20manager-uv-6C5CE7)](https://docs.astral.sh/uv/)
 [![Lisensi MIT](https://img.shields.io/badge/lisensi-MIT-green.svg)](LICENSE)
-[![Status Proyek](https://img.shields.io/badge/status-dalam%20pengembangan-yellow)](#rencana-pengembangan-roadmap)
+[![Status Proyek](https://img.shields.io/badge/status-on%20progress-yellow)](#rencana-pengembangan-roadmap)
 
 Smart Warehouse Agent adalah proyek AI mahasiswa yang dikembangkan bertahap selama satu semester untuk membantu pengelola gudang menemukan lokasi penyimpanan barang terbaik (*put-away*) dan jalur pengambilan barang tercepat (*retrieval*).
 
@@ -141,8 +141,7 @@ smart-warehouse-agent/
 │   └── warehouse_search.py
 ├── data/
 │   ├── raw/
-│   └── processed/
-├── notebooks/
+│   └── processed
 ├── tests/
 └── docs/
 ```
@@ -230,9 +229,9 @@ Daftar di atas adalah kemungkinan arah pengembangan, bukan klaim bahwa fitur ter
 
 | Nama | NIM | Peran |
 | --- | --- | --- |
-| Nicolas J Grace Butarbutar | 12S24038 | Algorithm Engineer & Repo Setup |
-| Indah Triyuni Siahaan | 12S24052 | Business Analyst / Problem Framer |
-| Swasti Maristella Sihombing | 12S24030 | PEAS Specialist & Dokumentasi |
+| Nicolas J Grace Butarbutar | 12S24038 | Search Algorithm Engineer & Repository Maintainer |
+| Indah Triyuni Siahaan | 12S24052 | Business Analyst & Requirements / Problem Framing |
+| Swasti Maristella Sihombing | 12S24030 | PEAS, Testing & System Documentation Specialist |
 
 ## Lisensi
 

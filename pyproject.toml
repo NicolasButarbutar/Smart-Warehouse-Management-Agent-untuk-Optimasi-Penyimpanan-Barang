@@ -6,8 +6,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 authors = [
     { name = "Nicolas J Grace Butarbutar" },
-    { name = "Indah" },
-    { name = "Swasti" },
+    { name = "Indah Triyuni Siahaan" },
+    { name = "Swasti Maristella Sihombing" },
 ]
 dependencies = []
 
